@@ -3,6 +3,6 @@ Comparison between an LLM (XLNet) and a traditional neural network (Ensemble of 
 
 ## Findings(XLNet)
 
-![](Images_SA_/SA_XLNet.png)
+![](images_SA_/SA_XLNet.png)
 
 ## Findings(CNN/Stacked BiLSTM)
